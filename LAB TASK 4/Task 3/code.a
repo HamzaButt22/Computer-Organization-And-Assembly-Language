@@ -1,0 +1,7 @@
+START:
+INP
+BUN k
+INP
+k: OUT
+HLT
+NUM: .data 1 0
